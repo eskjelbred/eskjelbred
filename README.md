@@ -1,23 +1,11 @@
-### Hey!
+### Hey! :vulcan_salute:
 
-Welcome to my Github-page. 
+I´m working as a subject teacher in Frontend-development and technical supervisor.
+I'm a degreed frontend developer, with a 2-year education from Noroff and I've worked as a media manager, daily manager for a VR company, and I've been running a webdev company for about 4 years.
 
+Check out my [LinkedIn](https://www.linkedin.com/in/practiz/)-profile to learn more about me.
 
+### Projects
 
-<img width="909" alt="Skjermbilde 2023-02-12 kl  20 11 32" src="https://user-images.githubusercontent.com/57560099/218331885-9e95a8c7-bb17-437b-a9c0-59c1f31ccd18.png">
-
-<!--
-
-**eskjelbred/eskjelbred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] Organize my Github
+- [ ] Reorganize my Github
