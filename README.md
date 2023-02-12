@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hey!
+
+Welcome to my Github-page. 
+
+
+
+<img width="909" alt="Skjermbilde 2023-02-12 kl  20 11 32" src="https://user-images.githubusercontent.com/57560099/218331885-9e95a8c7-bb17-437b-a9c0-59c1f31ccd18.png">
 
 <!--
+
 **eskjelbred/eskjelbred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
