@@ -1,11 +1,10 @@
 # Hey, I'm Egil 👋
-
 Frontend / Fullstack developer based in Norway 🇳🇴  
-I build practical, performant and maintainable web solutions – often with a strong focus on UX, structure and long-term scalability.
+I build practical, performant and maintainable web solutions – with a strong focus on UX, structure and long-term scalability. I also teach frontend development and run a couple of small companies on the side.
 
 ---
 
-### 🧠 What I care about
+### What I care about
 - Clean and readable code
 - Real users, real problems
 - Performance & accessibility
@@ -14,7 +13,8 @@ I build practical, performant and maintainable web solutions – often with a st
 
 ---
 
-### 🛠 Tech I work with
+### Tech I work with
+
 **Frontend**
 - HTML, CSS, JavaScript (ES6+)
 - React, Next.js, Astro
@@ -35,15 +35,17 @@ I build practical, performant and maintainable web solutions – often with a st
 
 ---
 
-### 🚀 Current focus
-- Building scalable web apps and SaaS solutions  
-- Exploring better DX and simpler stacks  
-- Combining design, UX and development into cohesive products  
+### Current focus
+- **Saunabooking** – a SaaS booking platform built specifically for sauna operators
+- Building and shipping real products as a solo founder
+- AI-driven features for scheduling, pricing and automation
+- Teaching frontend development at Gokstad Akademiet
+- What ever comes my way
 
 ---
 
-### 📂 Projects
-Some repos are experiments, some are teaching material, some are production-ready.  
+### Projects
+Most repos are private, some repos are experiments, some are teaching material, some are production-ready.  
 More polished case studies are coming as projects mature.
 
 ✔ Organizing and cleaning up older repos  
@@ -52,11 +54,9 @@ More polished case studies are coming as projects mature.
 
 ---
 
-### 🤝 Let’s connect
+### Let's connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/practiz/)
-- 🌐 Portfolio (coming soon)
-- 🧑‍🏫 Teaching frontend & web design
 
 ---
 
-> _“Simple is not easy – but it’s usually worth it.”_
+> _"Simple is not easy – but it's usually worth it."_
